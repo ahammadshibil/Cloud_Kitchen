@@ -9,6 +9,7 @@ This repository contains SQL and DBML files for setting up and managing a cloud 
 - `cloud_kitchen_schema.sql`: Contains the SQL statements to create the database schema.
 - `cloud_kitchen_inserts.sql`: Contains SQL statements for inserting sample data into the database.
 - `cloud_kitchen.dbml`: Contains the database schema in DBML (Database Markup Language) format.
+- 'Cloud_kitchen_DBML.png':Contain the image of the schema of the DBML.
 
 ## Getting Started
 
